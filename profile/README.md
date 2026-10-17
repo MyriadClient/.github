@@ -82,7 +82,9 @@ dependencies {
 }
 ```
 
-Start with [Writing an addon](https://github.com/MyriadClient/myriad-core#writing-an-addon) in core's README.
+The quickest start is [myriad-addon-template](https://github.com/MyriadClient/myriad-addon-template) (**Use this template** on
+GitHub): the build, a module, a HUD element and a mixin, already wired up. Then read
+[Writing an addon](https://github.com/MyriadClient/myriad-core#writing-an-addon) in core's README.
 [`example-addon/`](https://github.com/MyriadClient/myriad-core/tree/master/example-addon) uses every part of the API.
 Bugs and ideas go to [issues](https://github.com/MyriadClient/myriad-core/issues).
 
